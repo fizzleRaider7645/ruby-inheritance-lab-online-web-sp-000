@@ -1,3 +1,3 @@
 class User
-  def initialize
+  def initialize(first_name, last_name)
 end
